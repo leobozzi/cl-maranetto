@@ -1,0 +1,2 @@
+# cl-maranetto
+Odoo Maranetto
