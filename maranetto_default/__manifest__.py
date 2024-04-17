@@ -77,7 +77,7 @@
         ],
     'assets': {
         'web.assets_backend':  [
-            '/carbajales_default/static/src/js/user_menu.js',
+            '/maranetto_default/static/src/js/user_menu.js',
         ],
     },
     'test': [
