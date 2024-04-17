@@ -45,7 +45,7 @@
         'product_currency',
         'account_balance_line',
         'account_invoice_prices_update',
-        'account_move_line_menu',
+        #'account_move_line_menu',
         'account_usability',
         'account_payment_term_extension',
 
