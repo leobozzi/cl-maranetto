@@ -55,7 +55,7 @@
         'l10n_ar_bank',
         'l10n_ar_account_withholding',
         'l10n_ar_sale',
-        'l10n_ar_liquidaciones',
+        #'l10n_ar_liquidaciones',
 
         # CE
 
