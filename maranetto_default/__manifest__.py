@@ -280,7 +280,7 @@
     ],
     'docker-images': [
        'odoo lbozzi/odoo-docker-lb:16.0',
-       'postgres postgres:14',
+       'postgres mdillon/postgis:11-alpine',
        'nginx nginx',
     ]
 }
