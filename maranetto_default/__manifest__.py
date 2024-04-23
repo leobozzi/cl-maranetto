@@ -60,7 +60,7 @@
         # CE
 
         # EE
-        'l10n_ar_edi',
+        #'l10n_ar_edi',
         'l10n_ar_reports',
         'l10n_ar_account_tax_settlement',
         'l10n_ar_edi_ux',
@@ -280,7 +280,7 @@
     ],
     'docker-images': [
        'odoo lbozzi/odoo-docker-lb:16.0',
-       'postgres mdillon/postgis:11-alpine',
+       'postgres postgres:14',
        'nginx nginx',
     ]
 }
