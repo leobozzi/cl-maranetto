@@ -183,7 +183,7 @@
     'git-repos': [
         'https://github.com/leobozzi/cl-maranetto cl-maranetto',
         'https://github.com/odoo/enterprise enterprise',
-
+        'https://github.com/leobozzi/odoo-custom bit-odoo-custom',
 
         # OCA
         # ==========================================================================================
@@ -227,7 +227,7 @@
         # 'https://github.com/OCA/pos oca-pos',
         'https://github.com/OCA/product-attribute oca-product-attribute',
         'https://github.com/OCA/product-pack oca-product-pack',
-        # 'https://github.com/OCA/project oca-project',
+        'https://github.com/OCA/project oca-project',
         # 'https://github.com/OCA/project-reporting oca-project-reporting',
         'https://github.com/OCA/purchase-workflow oca-purchase-workflow',
         # 'https://github.com/OCA/queue oca-queue',
@@ -249,7 +249,7 @@
         # 'https://github.com/OCA/vertical-association oca-vertical-association',
         # 'https://github.com/OCA/website oca-website',
         'https://github.com/OCA/web oca-web',
-        # 'https://github.com/OCA/account-analytic',
+        'https://github.com/OCA/account-analytic oca-account-analytic',
 
 
         # ADHOC
